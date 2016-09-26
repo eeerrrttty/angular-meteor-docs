@@ -1,3 +1,5 @@
+- In any part of this file, change the ".meteor/release" value to match your current meteor version! For example: METEOR@1.3.4.2 (default to all parts), check with meteor --version, if your value is meteor 1.4.1, change to METEOR@1.3.4.2
+
 {{#template name="tutorials.socially.angular1.step_00.md"}}
 
 Let's start building our Meteor Angular 1 Socially app.
